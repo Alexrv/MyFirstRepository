@@ -10,7 +10,7 @@ namespace MyFirstRepository
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!!! NickChanges2");
+            Console.WriteLine("Test 1 1 1");
         }
     }
 }
